@@ -1,6 +1,6 @@
-### Hello 
-### My name's Dima
-### I'm a Junior Frontend delevoper
+# Hello 
+## My name's Dima
+## I'm a Junior Frontend delevoper
 
 
 ---
