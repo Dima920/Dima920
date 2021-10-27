@@ -1,4 +1,4 @@
-# Hello, my name's Dima
+## Hello, my name's Dima
 ### I'm a Junior Frontend delevoper
 
 
