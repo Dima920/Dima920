@@ -3,7 +3,7 @@
 
 ---
 
-### At the moment I am developing projects, starting with design and ending with implementation
+### I develop projects, starting with design and ending with implementation
 
 ---
 
