@@ -3,6 +3,10 @@
 
 ---
 
+### At the moment I am developing projects, starting with design and ending with implementation
+
+---
+
 ### Skills
 <img align="left" alt="HTML" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png">
 <img align="left" alt="HTML" width="26px" src="https://pngicon.ru/file/uploads/css3.png">
