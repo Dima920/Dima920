@@ -1,5 +1,5 @@
 ### Hello, my name's Dima
-### I'm a Junior Frontend delevoper
+### I'm a Junior Frontend Delevoper
 
 ---
 
